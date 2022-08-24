@@ -197,3 +197,93 @@ const b = 2
 const aa = 11
 const bb = 22
 ```
+
+21
+
+```js
+const a = 1
+const b = 2
+
+const aa = 11
+const bb = 22
+```
+
+23
+
+```js
+const a = 1
+const b = 2
+
+const aa = 11
+const bb = 22
+```
+
+24
+
+```js
+const a = 1
+const b = 1
+
+const aa = 11
+const bb = 22
+```
+
+25
+
+```js
+const a = 1
+const b = 2
+
+const aa = 11
+const bb = 22
+```
+
+26
+
+```js
+const a = 1
+const b = 1
+
+const aa = 11
+const bb = 22
+```
+
+27
+
+```js
+const a = 1
+const b = 1
+
+const aa = 11
+const bb = 22
+```
+
+28
+
+```js
+const a = 1
+const b = 2
+
+const aa = 11
+const bb = 22
+```
+
+29
+
+```js
+const a = 1
+const b = 2
+
+const aa = 11
+const bb = 22
+```
+
+30
+
+```js
+const a = 1
+const b = 2
+
+const aa = 11
+const bb = 22
+```
