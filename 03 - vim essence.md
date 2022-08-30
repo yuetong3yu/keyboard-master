@@ -11,3 +11,33 @@ And then press Esc(which modified to Cap + [) back to normal mode.
 Then move the cursor to the start of useEffect.
 
 Then remove the useEffect and switch to `insert` mode and then switch to useState.
+
+---
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
+
+import { useState } from 'react';
